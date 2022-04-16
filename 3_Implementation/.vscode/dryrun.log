@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/Users/Hp/Desktop/digi'
+mkdir Build
+avr-gcc.exe -g -Wall -Os -mmcu=atmega328  -I inc main_program.c src/Process1.c src/Process2.c -o Build\ClockWithDigitalOutput.elf
+make.exe: Leaving directory `c:/Users/Hp/Desktop/digi'
+ 
