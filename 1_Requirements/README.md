@@ -1,8 +1,8 @@
 # Requirements
 ## Introduction 
-- Clock with digital output is the project application that allows user to see time in digital format so user will understand the present time with this application .
+-   Clock with digital output is the project application that allows user to see time in digital format so user will understand the present time with this application .
 ## Research
-- This application is researched from various sources (like you tube , google and research papers ) and  then I have  modified into successful working model application with multiple header files and multiple c files  but simulation part is still under process till yet now .
+-   This application is researched from various sources (like you tube , google and research papers ) and  then I have  modified into successful working model application with multiple header files and multiple c files  but simulation part is still under process till yet now .
 ### Features
 - It is a clock with digital output hence shows discrete values of time .
 - When get rebooted , output will not change .
