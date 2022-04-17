@@ -35,7 +35,7 @@
 | ------ | --------- | ------ | ----- |
 | LR001 | ELECTRICAL NETWORK ANALYSIS AND FEASIBILITY REQUIREMENT | HR001 |  IMPLEMENTED  |
 | LR002 | user go with the option of display should be able to view the TIME| HR002 |  IMPLEMENTED |
-| LR003 | Simulation Requirement is must | HR002 | FUTURE |
+| LR003 | Simulation Requirement is must | HR002 | IMPLEMENTED |
 
 
 
