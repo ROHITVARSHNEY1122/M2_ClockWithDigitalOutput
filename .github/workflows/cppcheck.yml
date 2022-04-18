@@ -17,4 +17,4 @@ jobs:
     - name: Install
       run: sudo apt-get install cppcheck
     - name: analyse
-      run: make analysis
+      run: make analysis -C 3_Implementation
