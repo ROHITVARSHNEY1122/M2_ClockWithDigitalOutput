@@ -8,3 +8,5 @@ This is my project repository which contains project of embedded system
 [![Build CI-Linux](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/c-build.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/c-build.yml)
 
 [![Makefile](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/Makefile.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/Makefile.yml)
+
+[![Valgrind](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/Valgrind.yml)
