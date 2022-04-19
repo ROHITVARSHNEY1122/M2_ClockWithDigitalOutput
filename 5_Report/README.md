@@ -37,7 +37,7 @@
 | LR002 | user go with the option of display should be able to view the TIME| HR002 |  IMPLEMENTED |
 | LR003 | Simulation Requirement is must | HR002 | IMPLEMENTED |
 
-# Structural
+## Structural
 ![Structural](https://user-images.githubusercontent.com/101577287/163916702-e1c77a2b-acfb-48c4-8a4c-8b853cedaa1a.png)
 ## Behavioural
 ![BEHAVIOURAL](https://user-images.githubusercontent.com/101577287/163919911-aeba1def-3fef-4937-a6fb-0123efd3cb61.png)
@@ -45,8 +45,8 @@
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101577287/163925570-708745b3-8502-44b1-96a4-663a76f90b3c.png)
 
 
-# Test Plan
-# High Level Test Plan
+## Test Plan
+## High Level Test Plan
 
 | Test ID| Description | Exp I/P | Exp O/P | Status |
 | -------| ----------- | ------- | ------- | ------ |
@@ -55,7 +55,7 @@
 | H_03 | Search components in Simulide |  Components  | Assembling     | Implemeted  |
 | H_04 | Seven Segment Display   |      Run     | Displayed     | Implemented |
 
-# Low Level Test Plan
+### Low Level Test Plan
 
 | Test ID| Description | Exp I/P | Exp O/P | Status |
 | -------| ----------- | ------- | ------- | ------ |
