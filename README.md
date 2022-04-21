@@ -12,3 +12,5 @@ This is my project repository which contains project of embedded system
 [![Valgrind](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/Valgrind.yml)
 
 [![cppcheck-action](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/cppcheck.yml)
+
+[![Git Inspector](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M2_ClockWithDigitalOutput/actions/workflows/gitinspector.yml)
