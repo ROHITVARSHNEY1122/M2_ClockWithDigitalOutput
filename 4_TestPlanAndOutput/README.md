@@ -1,5 +1,5 @@
 # Test Plan
-# High Level Test Plan
+## High Level Test Plan
 
 | Test ID| Description | Exp I/P | Exp O/P | Status |
 | -------| ----------- | ------- | ------- | ------ |
@@ -8,7 +8,7 @@
 | H_03 | Search components in Simulide |  Components  | Assembling     | Implemeted  |
 | H_04 | Seven Segment Display   |      Run     | Displayed     | Implemented |
 
-# Low Level Test Plan
+## Low Level Test Plan
 
 | Test ID| Description | Exp I/P | Exp O/P | Status |
 | -------| ----------- | ------- | ------- | ------ |
