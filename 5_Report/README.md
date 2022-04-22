@@ -11,13 +11,13 @@
 ### What
 -   Time with digital output showing system.
 ### Why
--     curious about carrier in embedded system . 
+-       curious about carrier in embedded system . 
 ### When 
--     When you understand the importance of time management and start to be accountable for your time.
+-       When you understand the importance of time management and start to be accountable for your time.
 ### Where
--     This can be  used by the user in day to day life where they can track their time and  generate better results in life .
+-       This can be  used by the user in day to day life where they can track their time and  generate better results in life .
 ### How
--     By using Atmega328p microcontroller for controlling and we program it and then we have to load firmware in elf or hex format in simulation software called  SimulIDE .
+-       By using Atmega328p microcontroller for controlling and we program it and then we have to load firmware in elf or hex format in simulation software called  SimulIDE .
 ### SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/101577287/163710077-f63ac154-ca86-4134-9f5e-decfdda4df89.png)
 
@@ -43,7 +43,6 @@
 ![BEHAVIOURAL](https://user-images.githubusercontent.com/101577287/163919911-aeba1def-3fef-4937-a6fb-0123efd3cb61.png)
 ### Block Diagram
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101577287/163925570-708745b3-8502-44b1-96a4-663a76f90b3c.png)
-
 
 ## Test Plan
 ## High Level Test Plan
